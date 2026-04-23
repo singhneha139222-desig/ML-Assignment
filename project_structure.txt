@@ -1,0 +1,16 @@
+project/
+├── main.py
+├── agent/
+│   ├── graph.py
+│   ├── state.py
+│   ├── intent_engine.py
+│   ├── rag_pipeline.py
+│   ├── decision_engine.py
+│   ├── tools.py
+├── data/
+│   └── knowledge.json
+├── utils/
+│   ├── validators.py
+│   ├── logger.py
+├── requirements.txt
+├── README.md
